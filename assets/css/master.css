@@ -17,6 +17,9 @@ h2 {
 	color: #84bd9a;
 	color: var(--pale-teal);
 }
+a {
+	color: white;
+}
 p{
   font-family: 'Open Sans', sans-serif;
 }
