@@ -173,7 +173,7 @@ footer{
   padding: 20px 0;
   position: absolute;
   left: 122px;
-  top: 40px;
+  top: 30px;
 
 
 }
@@ -184,7 +184,15 @@ footer{
 	color: #ffffff;
   position: absolute;
   right: 122px;
-  top: 91px;
+  top: 71px;
 
 
+}
+.about{
+	color: white;
+	position: absolute;
+	left: 500px;
+	bottom: 0px;
+	font-weight: 800;
+	font-size: 0.8em;
 }
