@@ -7,10 +7,10 @@
 }
 // Fonts
 h1, h2, h3, h4, h5, h6{
-  font-family: 'Alegreya-bold', serif;
+  font-family: 'Alegreya', serif;
   }
 p {
-    font-family: 'Open Sans', sans-serif;
+    : 'Open Sans', sans-serif;
   }
   // General sizing
 
@@ -48,7 +48,7 @@ header {
         display: inline-block;
         // margin-left: 30px;
         padding: 0 5px;
-        font-family: 'Montserrat', sans-serif;
+        : 'Montserrat', sans-serif;
         color: white;
         letter-spacing: -2px;
         a {
@@ -78,7 +78,7 @@ header {
     }
 
     h3 {
-      font-family: 'OpenSans';
+      : 'OpenSans';
       font-size: 2em;
       letter-spacing: -3.4px;
       text-align: center;
@@ -93,7 +93,7 @@ header {
       border-radius: 5px;
       padding: 11px 40px 40px 40px;
       color: white;
-      font-family: OpenSans, sans-serif;
+      font-family: 'Open Sans', sans-serif;
       letter-spacing: -1px;
 
       // a{
@@ -220,7 +220,7 @@ header {
 
   .CTA-final {
     height: 140px;
-    font-family: Alegreya-Bold;
+    font-family: 'Alegreya' serif;
     font-size: 64px;
     line-height: 1.1;
     letter-spacing: -5px;
@@ -264,7 +264,7 @@ footer {
 }
 
 .copyright p {
-  font-family: 'OpenSans-Extrabold';
+  font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   letter-spacing: -1.5px;
   color: #ffffff;
