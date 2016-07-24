@@ -75,15 +75,17 @@ header {
       color: #ffffff;
       line-height: 0;
       margin-top: 15%;
+      font-weight: 400;
     }
 
     h3 {
-      : 'OpenSans';
+      font-family: 'Open Sans', sans-serif;
       font-size: 2em;
       letter-spacing: -3.4px;
       text-align: center;
       color: #ffffff;
       line-height: 20px;
+      font-weight: 400;
     }
     button {
       // width: 145px;
@@ -136,8 +138,7 @@ header {
           .pic2{
             width:  512px;
             height:  240px;
-
-            background-image: url('../assets/images/proyecto-vida.PNG');
+            background-image: url('../assets/images/proyecto-vida.png');
             background-size: cover;
             position: relative;
             flex-grow: 2;
