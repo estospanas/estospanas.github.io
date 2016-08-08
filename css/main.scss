@@ -2,11 +2,12 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-
+@import "materialize";
+@import "https://fonts.googleapis.com/css?family=Alegreya:700|Montserrat:300|Open+Sans:300,400|Sansita+One";
 
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: 'Alegreya',sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -42,12 +43,146 @@ $on-laptop:        800px;
         @content;
     }
 }
+body{
+  background-color: #fcfcfc;
+}
+.quienes{
+  h3{
+    font-weight: 300;
+    font-size: 1.8em;
+  }
+}
+.page-heading{
+  padding-top: 40px;
+}
+img.avatar{
 
+  height: 80px;
+  weight: 80px;
+}
+img.avatar-big{
+
+  height: 150px;
+  weight: 150px;
+}
+a#download-button {
+border: 2px white solid;
+border-radius: 5px;
+}
+
+
+h1{
+  font-family: 'Alegreya', serif;
+  color: #039be5;
+  margin: 0 1.424rem 0;
+
+}
+h2{
+  font-family: 'Alegreya', serif;
+  color: #EA6C6F;
+
+
+}
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  letter-spacing: -2px;
+}
+
+nav{
+  background-color: #fcfcfc;
+  ul{
+    a{
+      color: #ee6e73;
+      font-family: 'Montserrat', sans-serif;
+    }
+  }
+  i.material-icons {
+    color: white;
+  }
+}
+img.logo{
+  height: 50px;
+  padding-top: 10px;
+
+}
+
+
+.nav-home.transparent{
+  box-shadow:none;
+}
+.coverpage{
+  background-image: url('{{site.baseurl}}/images/plain.jpeg');
+  background-position: center;
+  background-size: cover;
+  a{
+    color: #ea6c6f;
+
+  }
+  .nav-home{
+    height: 100px;
+    img.logo{
+      height: 80px;
+      padding-top: 20px;
+    }
+    .right{
+      padding-top: 1.5rem;
+    }
+
+
+
+  }
+}
+#features{
+  .row{
+      .pic1{
+        background-image: url('{{site.baseurl}}/images/aeropuerto.png');
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        max-width: 720px;
+        height:  240px;
+
+
+      }
+      .pic2{
+
+        background-image: url('{{site.baseurl}}/images/proyecto-vida.jpg');
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        max-width:  720px;
+        height:  240px;
+      }
+      p{
+        font-size: 2em;
+        letter-spacing: -2px;
+        text-align: center;
+        font-family: 'Sansita One', serif;
+        color: #EA6C6F;
+        position: absolute;
+        bottom: -5%;
+        left: 30px;
+      }
+      h1{
+        font-family: 'Alegreya', serif;
+        color: #0078b2;
+        margin: 0 1.424rem 0;
+
+      }
+      h2{
+        font-family: 'Alegreya', serif;
+        color: #EA6C6F;
+
+
+      }
+      h4 {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 300;
+        letter-spacing: -2px;
+      }
+    }
+  }
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "layout",
-        "materialize"
-        // "/bourbon"
-;
