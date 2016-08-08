@@ -6348,7 +6348,8 @@ img.avatar-big {
 
 a#download-button {
   border: 2px white solid;
-  border-radius: 5px; }
+  border-radius: 5px;
+  color: white; }
 
 h1 {
   font-family: 'Alegreya', serif;
@@ -6392,6 +6393,9 @@ img.logo {
       padding-top: 20px; }
     .coverpage .nav-home .right {
       padding-top: 1.5rem; }
+
+#download-button a {
+  color: white; }
 
 #features .row .pic1 {
   background-image: url("/estospanas/images/aeropuerto.png");

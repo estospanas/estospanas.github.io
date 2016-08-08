@@ -68,6 +68,7 @@ img.avatar-big{
 a#download-button {
 border: 2px white solid;
 border-radius: 5px;
+color: white;
 }
 
 
@@ -131,6 +132,11 @@ img.logo{
 
 
 
+  }
+}
+#download-button{
+  a{
+    color: white;
   }
 }
 #features{
