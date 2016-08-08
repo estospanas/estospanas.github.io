@@ -6329,7 +6329,9 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   .picker--time .picker__box {
     margin-bottom: 5em; } }
 body {
-  background-color: #fcfcfc; }
+  background-color: #fcfcfc;
+  word-wrap: normal;
+  text-align: justify; }
 
 .quienes h3 {
   font-weight: 300;
