@@ -6360,7 +6360,8 @@ h1 {
 
 h2 {
   font-family: 'Alegreya', serif;
-  color: #EA6C6F; }
+  color: #EA6C6F;
+  font-size: 3.5em; }
 
 h4 {
   font-family: 'Open Sans', sans-serif;
@@ -6373,7 +6374,7 @@ nav {
     color: #ee6e73;
     font-family: 'Montserrat', sans-serif; }
   nav i.material-icons {
-    color: white; }
+    color: #ee6e73; }
 
 img.logo {
   height: 50px;
@@ -6417,7 +6418,7 @@ img.logo {
   font-size: 2em;
   letter-spacing: -2px;
   text-align: center;
-  font-family: 'Sansita One', serif;
+  font-family: 'Alegreya', serif;
   color: #EA6C6F;
   position: absolute;
   bottom: -5%;
@@ -6433,3 +6434,10 @@ img.logo {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   letter-spacing: -2px; }
+
+.page-footer a {
+  color: white; }
+
+a.post-link {
+  color: #009688;
+  font-size: 0.7em; }

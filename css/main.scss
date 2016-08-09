@@ -48,6 +48,7 @@ body{
   word-wrap: normal;
   text-align: justify;
 }
+
 .quienes{
   h3{
     font-weight: 300;
@@ -83,6 +84,7 @@ h1{
 h2{
   font-family: 'Alegreya', serif;
   color: #EA6C6F;
+  font-size: 3.5em;
 
 
 }
@@ -101,7 +103,7 @@ nav{
     }
   }
   i.material-icons {
-    color: white;
+    color: #ee6e73;
   }
 }
 img.logo{
@@ -166,7 +168,7 @@ img.logo{
         font-size: 2em;
         letter-spacing: -2px;
         text-align: center;
-        font-family: 'Sansita One', serif;
+        font-family: 'Alegreya', serif;
         color: #EA6C6F;
         position: absolute;
         bottom: -5%;
@@ -191,6 +193,19 @@ img.logo{
       }
     }
   }
+.page-footer{
 
+  a{
+    color: white;
+  }
+}
+a.post-link {
+    color: #009688;
+    font-size: 0.7em;
+}
+// .col.s12.m4.valign-wrapper{
+//   height: 55vh;
+//
+// }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
