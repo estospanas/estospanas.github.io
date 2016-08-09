@@ -6437,7 +6437,18 @@ img.logo {
 
 .page-footer a {
   color: white; }
+.page-footer .copyright {
+  background-color: #df716e; }
 
 a.post-link {
   color: #009688;
   font-size: 0.7em; }
+
+header.post-header.center h1 {
+  font-family: 'Alegreya', serif;
+  color: #009688;
+  margin: 0.5em 1.424rem 0;
+  font-size: 3.5em; }
+
+aside {
+  padding-left: 30px; }

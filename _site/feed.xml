@@ -6,15 +6,15 @@
 </description>
     <link>http://estospanas.com/estospanas/</link>
     <atom:link href="http://estospanas.com/estospanas/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Aug 2016 19:45:46 +0200</pubDate>
-    <lastBuildDate>Tue, 09 Aug 2016 19:45:46 +0200</lastBuildDate>
+    <pubDate>Tue, 09 Aug 2016 21:12:13 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Aug 2016 21:12:13 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>¿Quiere establecerse en España? ¡Decida bien!</title>
         <description>  &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col l8&quot;&gt;
-      &lt;img src=&quot;/estospanas/images/hero-shoot-desktop.png&quot; alt=&quot;&quot; width=&quot;500px;&quot;/&gt;
+      &lt;img src=&quot;/estospanas/images/hero-shoot-desktop.png&quot; alt=&quot;&quot; width=&quot;480px;&quot;/&gt;
       &lt;p&gt;
         Fijar residencia en un país ajeno es por adelantado un fenómeno que toca todas nuestras dimensiones humanas y que sin duda está cargado de una gran emocionalidad. Es importante abrir espacio a la racionalidad y estar conscientes de nuestros sesgos. También lo es, disponer de información relevante, confiable y adecuada. No menos lo será, evitar falsas suposiciones o dejarnos convencer por un ferviente apóstol de su experiencia individual.
       &lt;/p&gt;
@@ -36,7 +36,7 @@
       &lt;/p&gt;
 
       &lt;p&gt;
-        El ingreso per cápita en el 2015 fue de US$25,831.60 según el &lt;a href=&quot;http://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ES&amp;view=chart&quot;&gt;indicador&lt;/a&gt;  del Banco Mundial, equivalente a €23,300.10 a la tasa de 0.9020 €/US$ para la fecha de redacción de este artículo y según la base de datos &lt;a href=&quot;http://www.bloomberg.com/quote/USDEUR:CUR&quot;&gt;Bloomberg&lt;/a&gt;. El salario mínimo interprofesional para el año 2016 fijado por &lt;a href=&quot;http://www.seg-social.es/Internet_1/Normativa/128005&quot;&gt;Real Decreto&lt;/a&gt; es de €21.84 por día o €655.20 por mes, según esté fijado por días o por meses. Para tener una idea del costo de vida, España y particularmente Madrid, se encuentra en la posición 105 entre 201 ciudades clasificadas por Mercer en su &lt;a href=&quot;http://https://www.imercer.com/content/mobility/rankings/col2016-rankings.html?mkt_tok=eyJpIjoiTWpFMk1UQmtNV1ZsWm1SaCIsInQiOiIrbU5RUWVsZkpBbEdaRlhZTHo3Y1greE9GMUpWaVZKU1FLNlRMaXBsRTFVU0JKSmVZV3AyaW5YcWdDTmRoSWlLamdHMjlPTnNNdFRoRWJOMWpBOTJtd2NNeTlSTFV6dHlFQXNxVEFwRjR5RT0ifQ%3D%3D&quot;&gt;ranking del costo de vida 2016&lt;/a&gt;, donde le superan Zúrich y Singapur como tercera y cuarta ciudad más costosa para vivir respectivamente, Nueva York en el puesto 11, Londres en el 17 y la vecina París en el 44.
+        El ingreso per cápita en el 2015 fue de US$25,831.60 según el &lt;a href=&quot;http://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ES&amp;view=chart&quot;&gt;indicador&lt;/a&gt;  del Banco Mundial, equivalente a €23,300.10 a la tasa de 0.9020 €/US$ para la fecha de redacción de este artículo y según la base de datos &lt;a href=&quot;http://www.bloomberg.com/quote/USDEUR:CUR&quot;&gt;Bloomberg&lt;/a&gt;. El salario mínimo interprofesional para el año 2016 fijado por &lt;a href=&quot;http://www.seg-social.es/Internet_1/Normativa/128005&quot;&gt;Real Decreto&lt;/a&gt; es de €21.84 por día o €655.20 por mes, según esté fijado por días o por meses. Para tener una idea del costo de vida, España y particularmente Madrid, se encuentra en la posición 105 entre 201 ciudades clasificadas por Mercer en su &lt;a href=&quot;https://www.imercer.com/content/mobility/cost-of-living-city-rankings.html&quot;&gt;ranking del costo de vida 2016&lt;/a&gt;, donde le superan Zúrich y Singapur como tercera y cuarta ciudad más costosa para vivir respectivamente, Nueva York en el puesto 11, Londres en el 17 y la vecina París en el 44.
       &lt;/p&gt;
 
       &lt;p&gt;
@@ -48,18 +48,18 @@
       &lt;/p&gt;
 
     &lt;/div&gt;
-    &lt;div class=&quot;col l4 center&quot;&gt;
+    &lt;aside class=&quot;col l4 center&quot;&gt;
      &lt;a class=&quot;twitter-timeline&quot;  href=&quot;https://twitter.com/hashtag/Espa%C3%B1a&quot; data-widget-id=&quot;762670396923645952&quot;&gt;Tweets sobre #España&lt;/a&gt;
     &lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&quot;://platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);&lt;/script&gt;
 
 
-    &lt;/div&gt;
+  &lt;/aside&gt;
 
 
 
   &lt;/div&gt;
   &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col l12 center&quot;&gt;
+&lt;div class=&quot;col l8 center&quot;&gt;
  &lt;div class=&quot;card teal &quot;&gt;
    &lt;div class=&quot;card-content white-text&quot;&gt;
      &lt;span&gt;&lt;img class=&quot;avatar circle responsive-img&quot; src=&quot;/estospanas/images/avatarJM.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;br&gt;
