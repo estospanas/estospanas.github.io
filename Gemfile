@@ -6,4 +6,6 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem "jekyll"
   gem "html-proofer"
+  gem 'jekyll-admin'
+  gem 'github-pages'
 end
