@@ -7,7 +7,9 @@ before_script:
 
 # Don't provide an `install:` step in order for `bundle install` to be called by default
 
-script: bundle exec jekyll build && bundle exec htmlproofer ./_site
+script:
+  - bundle exec jekyll build
+  - bundle exec htmlproofer ./_site
 
 # branch whitelist, only for GitHub Pages
 branches:
