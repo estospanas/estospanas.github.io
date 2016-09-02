@@ -19,7 +19,7 @@
           <header class="post-header center">
             <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1><br>
             <span>
-              <img src="{{ author.avatar }}" class="avatar circle responsive-img center" alt="{{ author.name }} bio foto" /><br></span>
+              <img src="{{ author.avatar }}" class="avatar circle responsive-img center" alt="{{ author.name }} bio foto" /><br>{% if author.pro %}<span><img src="{{site.baseurl}}/images/PRO.png" alt="" /></span>{% endif %}</span>
             <p class="post-meta center">{% if page.author %}  <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }} · </span><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time> · Lo lees en {% include read-time.html %}</span>{% endif %}</p>            </header>
 
 

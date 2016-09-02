@@ -339,6 +339,52 @@ p.light.cardpanel.teal {
 nav .button-collapse i {
     color: #df716e;
 }
+.card.member-grid.center{
+  height: 300px;
+  p{
+    line-height: 2em;
+  }
+  a{
+    color: orange;
+  }
+  .card-title {
+    line-height: 1.5em;
+    text-align: center;
+    font-size:1.1em;
+    max-width: 90%;
+    height: 200px;
+
+  }
+  .card-action{
+    padding-top: 10px;
+    p{
+      height: 50px;
+    }
+    li{
+      list-style-type: none;
+    }
+  }
+}
+.slider{
+  max-width: 400px;
+  margin: 0 auto;
+  .slides{
+    .caption.h5{
+      color: white;
+      margin-top: 200px;
+    }
+    .light{
+      color: black;
+    }
+  }
+}
+h5{
+  color: white;
+  margin-top: 200px;
+}
+.slider .indicators .indicator-item.active {
+    background-color: #df716e;
+}
 // .vcita{
 //   min-height: 600px;
 //

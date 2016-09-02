@@ -2637,3 +2637,19 @@ p.light.cardpanel.teal, footer.page-footer p.cardpanel.teal.footer-copyright { c
 .article ul li { list-style-type: circle; margin-left: 1em; }
 
 nav .button-collapse i { color: #df716e; }
+
+.card.member-grid.center { height: 300px; }
+.card.member-grid.center p { line-height: 2em; }
+.card.member-grid.center a { color: orange; }
+.card.member-grid.center .card-title { line-height: 1.5em; text-align: center; font-size: 1.1em; max-width: 90%; height: 200px; }
+.card.member-grid.center .card-action { padding-top: 10px; }
+.card.member-grid.center .card-action p { height: 50px; }
+.card.member-grid.center .card-action li { list-style-type: none; }
+
+.slider { max-width: 400px; margin: 0 auto; }
+.slider .slides .caption.h5 { color: white; margin-top: 200px; }
+.slider .slides .light, .slider .slides footer.page-footer .footer-copyright, footer.page-footer .slider .slides .footer-copyright { color: black; }
+
+h5 { color: white; margin-top: 200px; }
+
+.slider .indicators .indicator-item.active { background-color: #df716e; }
