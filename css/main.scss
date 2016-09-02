@@ -376,15 +376,16 @@ nav .button-collapse i {
     .light{
       color: black;
     }
+    h5{
+      color: white;
+      margin-top: 200px;
+    }
+    .slider .indicators .indicator-item.active {
+        background-color: #df716e;
+    }
   }
 }
-h5{
-  color: white;
-  margin-top: 200px;
-}
-.slider .indicators .indicator-item.active {
-    background-color: #df716e;
-}
+
 // .vcita{
 //   min-height: 600px;
 //
