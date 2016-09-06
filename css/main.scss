@@ -380,11 +380,10 @@ nav .button-collapse i {
       color: white;
       margin-top: 200px;
     }
-
+    .slider .indicators .indicator-item.active {
+        background-color: #df716e;
+    }
   }
-}
-.slider .indicators .indicator-item.active {
-    background-color: #df716e;
 }
 
 // .vcita{

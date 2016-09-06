@@ -2650,5 +2650,4 @@ nav .button-collapse i { color: #df716e; }
 .slider .slides .caption.h5 { color: white; margin-top: 200px; }
 .slider .slides .light, .slider .slides footer.page-footer .footer-copyright, footer.page-footer .slider .slides .footer-copyright { color: black; }
 .slider .slides h5 { color: white; margin-top: 200px; }
-
-.slider .indicators .indicator-item.active { background-color: #df716e; }
+.slider .slides .slider .indicators .indicator-item.active { background-color: #df716e; }
