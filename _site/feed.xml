@@ -5,13 +5,8 @@
     <description>Una mano amiga que te recibe para ayudarte en tu nueva vida en España</description>
     <link>http://www.estospanas.com/</link>
     <atom:link href="http://www.estospanas.com/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Tue, 06 Sep 2016 16:22:55 +0200</pubDate>
-    <lastBuildDate>Tue, 06 Sep 2016 16:22:55 +0200</lastBuildDate>
-=======
-    <pubDate>Fri, 02 Sep 2016 13:38:54 +0200</pubDate>
-    <lastBuildDate>Fri, 02 Sep 2016 13:38:54 +0200</lastBuildDate>
->>>>>>> parent of 2a866d0... Correct style bugs (changes indicator color)
+    <pubDate>Tue, 06 Sep 2016 18:45:29 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2016 18:45:29 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -37,21 +32,95 @@
 
   &lt;/div&gt;
 </description>
-<<<<<<< HEAD
         <pubDate>Tue, 06 Sep 2016 00:00:00 +0200</pubDate>
         <link>http://www.estospanas.com/emprendimiento/2016/09/06/espan-a-incentivos-fiscales.html</link>
         <guid isPermaLink="true">http://www.estospanas.com/emprendimiento/2016/09/06/espan-a-incentivos-fiscales.html</guid>
         
         
         <category>emprendimiento</category>
-=======
+        
+      </item>
+    
+      <item>
+        <title>'Venezuela': una canción de amor a un país, escrita por españoles</title>
+        <description>  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col s12&quot;&gt;
+      &lt;img class=&quot;post materialboxed&quot; src=&quot;/images/maxresdefault.jpg&quot; alt=&quot;Venezuela Canción Flashmob&quot; /&gt;
+      &lt;p&gt;
+        &lt;em&gt;Uno de los regalos más bellos que le ha hecho España a Venezuela por medio de Pablo Herrero y José Luis Armenteros.&lt;/em&gt; &lt;/p&gt;
+
+      &lt;p&gt;
+          Este hermosa canción, que los venezolanos hemos adoptado como tercer himno después del &lt;a href=&quot;https://es.wikipedia.org/wiki/Gloria_al_Bravo_Pueblo&quot;&gt;Gloria al Bravo Pueblo&lt;/a&gt; y el &lt;a href=&quot;https://es.wikipedia.org/wiki/Alma_llanera&quot;&gt;Alma Llanera&lt;/a&gt; fue escrita por dos españoles que amaron nuestra tierra como propia, &lt;a href=&quot;https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Armenteros&quot;&gt;José Luis Armenteros&lt;/a&gt; y &lt;a href=&quot;https://es.wikipedia.org/wiki/Pablo_Herrero&quot;&gt;Pablo Herrero&lt;/a&gt;. Ambos fueron integrantes del grupo &lt;a href=&quot;https://es.wikipedia.org/wiki/Los_Rel%C3%A1mpagos&quot;&gt;&quot;Los Relámpagos&quot;&lt;/a&gt; y compositores, entre muchas otras, de las canciones &quot;Un Beso y Una Flor&quot; de Nino Bravo y &quot;Como Una Ola&quot; de Rocío Jurado.
+      &lt;/p&gt;
+      &lt;p&gt;
+        Armenteros y Herrero, contrario a lo que se pensaba, sí conocieron Venezuela y vivieron en Caracas, en la Urbanización Las Mercedes, según comentan en esta &lt;a href=&quot;http://www.cancionesdelayer.com/index.php?threads/balbino-venezuela.105356/&quot;&gt;entrevista&lt;/a&gt;. Iban los fines de semana a Higuerote, a descansar en la playa.
+      &lt;/p&gt;
+      &lt;p&gt;
+        Lamentablemente José Luis Armenteros &lt;a href=&quot;http://www.efeeme.com/ha-fallecido-jose-luis-armenteros-compositor-y-productor-de-decenas-de-canciones-esenciales-del-pop-espanol/&quot;&gt;falleció&lt;/a&gt; recientemente, lo que deja un vacío en el mundo artístico difícil de llenar.
+      &lt;/p&gt;
+      &lt;!--         Slider              --&gt;
+      &lt;div class=&quot;slider center&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=xXOStcJAsO8&quot;&gt;
+        &lt;img class=&quot;post&quot; src=&quot;/images/ninobravo.jpg&quot;&gt; &lt;!-- random image --&gt;
+        &lt;div class=&quot;caption center-align&quot;&gt;
+          &lt;h5&gt;Armenteros y Herrero escribieron para Nino Bravo, otras grandes canciones como &quot;América&quot; y &quot;Libre&quot; &lt;/h5&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;&lt;/li&gt;
+
+      &lt;li&gt;
+        &lt;img class=&quot;post&quot; src=&quot;/images/Relampagos_1965r.jpg&quot;&gt; &lt;!-- random image --&gt;
+        &lt;div class=&quot;caption center-align&quot;&gt;
+          &lt;h5&gt; José Luis Armenteros y Pablo Herrero fueron integrantes del grupo &quot;Los Relámpagos&quot;&lt;/h5&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;a href=&quot;https://www.youtube.com/watch?v=qMxkjeHN1O4&quot;&gt;&lt;img class=&quot;post&quot; src=&quot;/images/roc1.jpg&quot;&gt;
+          https://www.youtube.com/watch?v=qMxkjeHN1O4 &lt;!-- random image --&gt;
+            &lt;div class=&quot;caption center-align&quot;&gt;
+                &lt;h5&gt;&quot;Como una ola&quot;, una de las canciones más famosas de Rocío Jurado, compuesta por Armenteros/Herrero&lt;/h5&gt;
+            &lt;/div&gt;&lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;img class=&quot;post&quot; src=&quot;/images/pablo-herrero-jose-luis-armenteros-11-06-16.jpg&quot;&gt; &lt;!-- random image --&gt;
+        &lt;div class=&quot;caption center-align&quot;&gt;
+
+          &lt;h5&gt;Herrero (izq.) y Armenteros (der.) en una foto reciente&lt;/h5&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;!--            Slider end            --&gt;
+&lt;p&gt;
+  Una de las grandes virtudes de la música es su capacidad de trasladarnos a otros lugares, otras épocas y esta canción, al menos para nosotros que estamos fuera de nuestro querido país, es un referente siempre que queremos volver a evocar nuestra patria.
+&lt;/p&gt;
+&lt;p&gt;
+  Les compartimos este video con unas de las mejores interpretaciones de la &lt;strong&gt;canción &quot;Venezuela&quot;&lt;/strong&gt;, en este fantástico &lt;strong&gt;flashmob&lt;/strong&gt; realizado por &lt;a href=&quot;https://www.facebook.com/froidinternacional/&quot;&gt;Froid Internacional&lt;/a&gt; y la Fundación Zulia.
+&lt;/p&gt;
+&lt;p&gt;
+  Todos los viernes estaremos haciendo este recorrido por América Latina a través de su música y expresiones culturales, así que no te pierdas nuestras actualizaciones con la mejor información para los latinoamericanos que vivimos fuera de nuestros países de origen.
+&lt;/p&gt;
+&lt;p&gt;
+  ¡Feliz viernes!
+&lt;/p&gt;
+      &lt;div class=&quot;center video-container&quot;&gt;
+        &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/N0tjGG84Dww&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+      &lt;/div&gt;
+
+
+    &lt;/div&gt;
+
+
+
+
+  &lt;/div&gt;
+</description>
         <pubDate>Fri, 02 Sep 2016 00:00:00 +0200</pubDate>
         <link>http://www.estospanas.com/m%C3%BAsica/2016/09/02/venezuela-cancion-flashmob.html</link>
         <guid isPermaLink="true">http://www.estospanas.com/m%C3%BAsica/2016/09/02/venezuela-cancion-flashmob.html</guid>
         
         
         <category>música</category>
->>>>>>> parent of 2a866d0... Correct style bugs (changes indicator color)
         
       </item>
     
