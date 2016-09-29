@@ -216,8 +216,10 @@ img.logo{
   }
 }
 a.post-link {
-    color: #009688;
+    color: #ffffff;
+    background-color: rgba(0,0,0,0.5);
     font-size: 0.7em;
+    line-height: normal;
 }
 header.post-header.center{
   h1 {
@@ -396,3 +398,76 @@ nav .button-collapse i {
 // }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
+.grid-item{
+  a{
+    color: #1F9687;
+    font-weight: bold;
+    font-size: 1.4em;
+  }
+  .card-link{
+    color: #039be5;
+    font-style: italic;
+    font-weight: normal;
+    // text-decoration: underline;
+    // position: absolute;
+    // bottom: 20px;
+  }
+  .card .card-content {
+    padding: 13px;
+
+}
+  .c-content{
+    padding-right: 15px;
+    position: absolute;
+    bottom: 10px;
+  }
+  .excerpt{
+    color: #000;
+
+    font-weight: normal;
+    padding: 10px 0;
+    font-size: 0.7em;
+    // position: absolute;
+    // bottom: 40px;
+
+  }
+
+}
+.thumbnail.responsive-img {
+  position: relative;
+  height: 250px;
+  overflow: hidden;
+  position: absolute;
+   left: 50%;
+   top: 50%;
+
+}
+// img.thumbnail.responsive-img{
+//  overflow: hidden;
+//  position: absolute;
+//  left: 50%;
+//  top: 50%;
+//  height: 100%;
+//  width: auto;
+//  -webkit-transform: translate(-50%,-50%);
+//      -ms-transform: translate(-50%,-50%);
+//          transform: translate(-50%,-50%);
+// }
+// .card-image {
+//   position: relative;
+//   height: 190px;
+//
+// }
+// .card-image img {
+//   position: absolute;
+//   left: 50%;
+//   top: 50%;
+//   height: 100%;
+//   width: auto;
+//   -webkit-transform: translate(-50%,-50%);
+//       -ms-transform: translate(-50%,-50%);
+//           transform: translate(-50%,-50%);
+// }
+// img.thumbnail.responsive-img {
+//     height: 218px;
+// }

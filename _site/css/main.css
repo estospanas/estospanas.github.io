@@ -2599,7 +2599,7 @@ img.logo { height: 50px; padding-top: 10px; }
 .page-footer a { color: white; }
 .page-footer .copyright { background-color: #df716e; }
 
-a.post-link { color: #009688; font-size: 0.7em; }
+a.post-link { color: #ffffff; background-color: rgba(0, 0, 0, 0.5); font-size: 0.7em; line-height: normal; }
 
 header.post-header.center h1 { font-family: 'Alegreya', serif; color: #009688; margin: 0.5em 1.424rem 0; font-size: 3.5em; }
 
@@ -2651,3 +2651,7 @@ nav .button-collapse i { color: #df716e; }
 .slider .slides .light, .slider .slides footer.page-footer .footer-copyright, footer.page-footer .slider .slides .footer-copyright { color: black; }
 .slider .slides h5 { color: white; margin-top: 200px; }
 .slider .slides .slider .indicators .indicator-item.active { background-color: #df716e; }
+
+.grid-item a { color: #1F9687; font-weight: bold; }
+.grid-item .card-link { color: #039be5; font-style: italic; font-weight: normal; text-decoration: underline; position: absolute; bottom: 10px; }
+.grid-item .card .card-content { padding: 13px; }
