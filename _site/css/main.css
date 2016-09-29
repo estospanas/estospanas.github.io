@@ -2652,6 +2652,10 @@ nav .button-collapse i { color: #df716e; }
 .slider .slides h5 { color: white; margin-top: 200px; }
 .slider .slides .slider .indicators .indicator-item.active { background-color: #df716e; }
 
-.grid-item a { color: #1F9687; font-weight: bold; }
-.grid-item .card-link { color: #039be5; font-style: italic; font-weight: normal; text-decoration: underline; position: absolute; bottom: 10px; }
+.grid-item a { color: #1F9687; font-weight: bold; font-size: 1.4em; }
+.grid-item .card-link { color: #039be5; font-style: italic; font-weight: normal; }
 .grid-item .card .card-content { padding: 13px; }
+.grid-item .c-content { padding-right: 15px; position: absolute; bottom: 10px; }
+.grid-item .excerpt { color: #000; font-weight: normal; padding: 10px 0; font-size: 0.7em; }
+
+.thumbnail.responsive-img { position: relative; height: 250px; overflow: hidden; position: absolute; left: 50%; top: 50%; }
