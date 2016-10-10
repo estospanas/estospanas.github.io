@@ -28,18 +28,14 @@ luis:
   web: http://estospanas.com
   twitter: luisalbertocs
   github: luisalbertocs
+  pro: si
 
 carla:
   name: Carla Rodríguez
   display_name: Carla
   hometown:  Caracas 🇻🇪
   location: Barcelona 🇪🇸
-  avatar: images/AvatarCR.jpg
-  bio: Marketing
-  long-bio: "Licenciada en Comunicación Social con Máster en Dirección de Empresas de Moda y Post-Grado en Comercio Electrónico y publicidad online. Después de 8 años de experiencia en el área de marketing en empresas trasnacionales y empresas familiares decidí estudiar diseño de moda, lo que me llevó a crear un marca de trajes de baño en Venezuela. Luego por la situación país, me tocó irme a España y comenzar el proyecto de trajes de baño desde cero. Hoy en día, después de 2 años de esfuerzo, tengo una marca internacional que se vende en Venezuela, Panamá, EEUU y Europa. Y con muchos sueños por delante para desarrollar nuevas categorías de productos y expandirme en otras localidades."
-  website: http://cayenabeachwear.com
-  wbname: Cayena Beachwear
-  full-pic: images/cayena_imagen_008_1448.jpeg
-  icon: comment-discussion
+  avatar: /images/AvatarCR.jpg
+  bio: "Licenciada en Comunicación Social con Máster en Dirección de Empresas de Moda y Post-Grado en Comercio Electrónico y publicidad online. Después de 8 años de experiencia en el área de marketing en empresas trasnacionales y empresas familiares decidí estudiar diseño de moda, lo que me llevó a crear un marca de trajes de baño en Venezuela. Luego por la situación país, me tocó irme a España y comenzar el proyecto de trajes de baño desde cero. Hoy en día, después de 2 años de esfuerzo, tengo una marca internacional que se vende en Venezuela, Panamá, EEUU y Europa. Y con muchos sueños por delante para desarrollar nuevas categorías de productos y expandirme en otras localidades."
+  web: http://cayenabeachwear.com
   pro: si
-  page: carla-rodriguez
