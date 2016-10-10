@@ -160,7 +160,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler
   github-pages
   html-proofer
   jekyll

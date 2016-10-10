@@ -2652,6 +2652,10 @@ nav .button-collapse i { color: #df716e; }
 .slider .slides h5 { color: white; margin-top: 200px; }
 .slider .slides .slider .indicators .indicator-item.active { background-color: #df716e; }
 
+.carousel .indicators .indicator-item { height: 15px; width: 15px; margin: 24px 8px; }
+
+.carousel .indicators .indicator-item.active { background-color: #df716e; }
+
 .grid-item a { color: #1F9687; font-weight: bold; font-size: 1.4em; }
 .grid-item .card-link { color: #039be5; font-style: italic; font-weight: normal; }
 .grid-item .card .card-content { padding: 13px; }
