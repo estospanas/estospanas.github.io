@@ -442,6 +442,14 @@ nav .button-collapse i {
    top: 50%;
 
 }
+.carousel .indicators .indicator-item {
+    height: 15px;
+    width: 15px;
+    margin: 24px 8px;
+  }
+.carousel .indicators .indicator-item.active {
+  background-color: #df716e;
+}
 // img.thumbnail.responsive-img{
 //  overflow: hidden;
 //  position: absolute;

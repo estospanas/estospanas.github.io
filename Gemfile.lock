@@ -160,6 +160,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   github-pages
   html-proofer
   jekyll
@@ -168,4 +169,4 @@ DEPENDENCIES
   jekyll-sitemap
 
 BUNDLED WITH
-   1.13.2
+   1.13.3
