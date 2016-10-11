@@ -16,6 +16,8 @@ twitter:
   site: estospanasweb
   content: summary_large_image
 
+exclude: [vendor, "Gemfile", "Gemfile.lock"]
+
 facebook:
   publisher: https://www.facebook.com/estospanas/
 google_site_verification:

@@ -28,27 +28,7 @@
             {{ content }}
 
           </div>
-          <div class="row">
-        <div class="col l8 center">
-         <div class="card teal ">
-           <div class="card-content white-text">
-             <span><img class="avatar circle responsive-img" src="{{ author.avatar }}" alt="{{ author.name }} bio foto" /></span><br>
-             <span class="card-title">{% if page.author %}  <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}{% endif %}</span></span></span>
-           {% if author.bio %}<p> {{ author.bio }}</p>{% endif %}
-           </div>
-           <div class="card-action">
-             <a href="mailto:{{ author.email }}">Contactar a {{ author.display_name }} </a>
-             <a href="{{site.baseurl}}/consulta.html">Realizar Consulta</a>
-           </div>
-         </div>
-        </div>
-        <aside class="col l4 center">
-         <a class="twitter-timeline" data-lang="es" data-height="390" data-link-color="#039be5" href="https://twitter.com/estospanasweb">Tweets by estospanasweb</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-        </aside>
-
-        </div>
+          
 
 
 
