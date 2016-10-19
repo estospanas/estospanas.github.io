@@ -2663,3 +2663,5 @@ nav .button-collapse i { color: #df716e; }
 .grid-item .excerpt { color: #000; font-weight: normal; padding: 10px 0; font-size: 0.7em; }
 
 .thumbnail.responsive-img { position: relative; height: 250px; overflow: hidden; position: absolute; left: 50%; top: 50%; }
+
+#imgpost { max-width: 100%; height: auto; }
