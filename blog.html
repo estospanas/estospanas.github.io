@@ -11,6 +11,8 @@ layout: page
 
       <ul class="post-list">
         {% for post in site.posts %}
+        {% if post.category == "redirected" %}
+        {% else if %}
         <a href="{{ post.url | prepend: site.baseurl }}">
           <li class="grid-item col s12 m6">
             <div class="card large hoverable">
@@ -35,6 +37,8 @@ layout: page
               </div>
 
 
+
+
               <!-- <div class="card-action">
 
                 <h2>
@@ -50,6 +54,7 @@ layout: page
             </div>
           </li>
           </a>
+          {% endif %}
         {% endfor %}
       </ul>
 
