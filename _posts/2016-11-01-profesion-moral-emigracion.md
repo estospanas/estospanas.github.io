@@ -13,7 +13,7 @@ excerpt: Más allá del dominio técnico y la remuneración económica, la profe
 image: images/pexels-photo-57825ER.jpeg
 ---
 
-Solidaridad y sintonía social
+### Solidaridad y sintonía social
 
 Más allá del dominio técnico y la remuneración económica, la profesión constituye un mecanismo de integración social. La actividad profesional se extiende más allá del individuo y la producción objetual. En su relación con la alteridad, crea mundos y relaciones que expresan modos comunes de vivir, formas seguras de navegar en la angustia que para algunos produce el devenir. Además de proveer de explicaciones sobre nuestro entorno, la profesión revela implicaciones comprensivas valiosas, formamos parte de un mundo (el mundo de la mecánica, el mundo del derecho, el mundo de la panadería, etc), convivimos en un lugar de problematizaciones y soluciones colectivas. La profesión determina de una manera muy particular a la existencia. Si bien el ser humano puede dedicarse a una variedad de actividades, concilia y define su existencia social a su profesión, a un hacer particular. La actividad profesional de su elección modela su carácter y sus maneras de relacionarse con los otros y con el planeta, la profesión ejerce una doble función constituyente, además de transformar el entorno, modifica al profesional ofreciéndole un marco de referencias confiables.
  
