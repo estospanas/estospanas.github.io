@@ -5,9 +5,35 @@
     <description>Una mano amiga que te recibe para ayudarte en tu nueva vida en España</description>
     <link>http://www.estospanas.com/</link>
     <atom:link href="http://www.estospanas.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Oct 2016 12:19:49 +0200</pubDate>
-    <lastBuildDate>Tue, 25 Oct 2016 12:19:49 +0200</lastBuildDate>
+    <pubDate>Tue, 01 Nov 2016 15:24:09 +0100</pubDate>
+    <lastBuildDate>Tue, 01 Nov 2016 15:24:09 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>La Eterna Canción Venezolana de Cumpleaños</title>
+        <description>&lt;p&gt;Para cada gentilicio de nuestra Latinoamérica existen rasgos que lo definen como único y que van desde la gastronomía, el acento, la música y otros, hasta el humor.&lt;/p&gt;
+
+&lt;p&gt;Es curioso que en esa misma variedad, una canción para celebrar el cumpleaños sea tan particularmente extendida como es en el caso del “Cumpleaños Feliz” venezolano; considerando que se trata de una versión en Español del popular “Happy Birthday to You”.&lt;/p&gt;
+
+&lt;p&gt;Y es que a la versión tradicional del “&lt;a href=&quot;https://es.wikipedia.org/wiki/Cumpleaños_feliz&quot;&gt;Cumpleaños Feliz&lt;/a&gt;”, en Venezuela le antecede la canción “&lt;a href=&quot;https://es.wikipedia.org/wiki/Ay,_qué_noche_tan_preciosa&quot;&gt;Ay, qué noche tan preciosa&lt;/a&gt;”,  del compositor venezolano &lt;a href=&quot;https://es.wikipedia.org/wiki/Luis_Cruz&quot;&gt;Luis Cruz&lt;/a&gt; y sobre la cual se han elaborado otras versiones, que le ponen una pizca de humor, característica de nuestro gentilicio.&lt;/p&gt;
+
+&lt;div class=&quot;center video-container&quot;&gt;
+          &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GJkAPEo0eso&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+        &lt;/div&gt;
+
+&lt;p&gt;En su canal &lt;a href=&quot;https://www.youtube.com/channel/UCeB0K8AL2mCJhrBdCeD2BgA&quot;&gt;FLAMA&lt;/a&gt; de YouTube, la humorista venezolana &lt;a href=&quot;http://joannahausmann.com/about/&quot;&gt;Joanna Hausmann&lt;/a&gt;, se ha dado a la tarea de estrechar la brecha de esas diferencias culturales de nuestra Latinoamérica utilizando el humor para ello.&lt;/p&gt;
+
+&lt;p&gt;La Eterna Canción Venezolana de Cumpleaños (The Eternal Venezuelan Birthday Song) es una parodia de esta canción popular en su versión alterna, creada con el divertido y excéntrico toque de Joanna Hausmann.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Oct 2016 12:00:00 +0200</pubDate>
+        <link>http://www.estospanas.com/relax/2016/10/28/eterna-cancion-cumpleanos.html</link>
+        <guid isPermaLink="true">http://www.estospanas.com/relax/2016/10/28/eterna-cancion-cumpleanos.html</guid>
+        
+        
+        <category>relax</category>
+        
+      </item>
     
       <item>
         <title>Historias de emprendedores: Fernanda Fuschino</title>
@@ -25,7 +51,7 @@
 
       &lt;/p&gt;
       &lt;center&gt;
-        &lt;img class=&quot;img-responsive materialboxed&quot; src=&quot;/images/FF02.jpg&quot; alt=&quot;emprendimiento fernanda fuschino&quot; /&gt;
+        &lt;img class=&quot;img-responsive post materialboxed&quot; src=&quot;/images/FF02.jpg&quot; alt=&quot;emprendimiento fernanda fuschino&quot; /&gt;
       &lt;/center&gt;
         &lt;p&gt;
           Finamente, después de varios meses como becaria y ya egresada como Ilustradora y Diseñadora de Moda, decidí &lt;strong&gt;emprender&lt;/strong&gt; con &lt;a href=&quot;http://www.shop-artcouture.com/&quot;&gt;ART-COUTURE&lt;/a&gt; by Fernanda Fuschino, un proyecto que tan solo tiene 8 meses de vida pero que para su corta edad ya me ha retribuido con creces.
@@ -254,8 +280,8 @@
         <title>Latinoamericanos Exitosos Evelyn Millares</title>
         <description></description>
         <pubDate>Wed, 12 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://www.estospanas.com/redirected/2016/10/12/latinoamericanos-exitosos-evelyn-millares.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/redirected/2016/10/12/latinoamericanos-exitosos-evelyn-millares.html</guid>
+        <link>http://www.estospanas.com/{{site.baseurl}}/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-millares.html</link>
+        <guid isPermaLink="true">http://www.estospanas.com/{{site.baseurl}}/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-millares.html</guid>
         
         
         <category>redirected</category>
@@ -803,74 +829,6 @@
         
         
         <category>musica</category>
-        
-      </item>
-    
-      <item>
-        <title>Latinoamericanos exitosos: María Teresa Arnal, dirige Twitter para Hispanoamérica</title>
-        <description>  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col s12&quot;&gt;
-      &lt;img class=&quot;post materialboxed&quot; src=&quot;/images/maria-teresa-arnal-twitter.jpg&quot; alt=&quot;maria teresa arnal twitter&quot; /&gt;
-      &lt;p&gt;
-        &lt;em&gt;Mariate es una empresaria y emprendedora de probados logros en la industria digital&lt;/em&gt; &lt;/p&gt;
-
-
-      &lt;p&gt;
-        Cariñosamente apodada “Mariate”, es actualmente la Directora General para Hispanoamérica de la compañía Twitter y una de las &lt;a href=&quot;http://www.hitecglobal.org/news/61852/The-2011-HITEC-Top-50-Latin-America-List.htm&quot;&gt;cincuenta personas más influyentes en tecnología en Latinoamérica&lt;/a&gt;, reconocida como tal por el Consejo Ejecutivo Hispánico de Tecnología (Hispanic Executive Technology Council) en el año 2011.
-      &lt;/p&gt;
-      &lt;p&gt;
-        De gentilicio venezolano, es Ingeniero Industrial, egresada de la Universidad Católica Andrés Bello y MBA de la prestigiosa Columbia University en Nueva York. Mariate ha sido elegida para este trabajo por su especial trayectoria en el campo de la “(…) mercadotecnia, publicidad, medios digitales, telecomunicaciones y entretenimiento. Su trabajo ha sido caracterizado por su dinamismo y capacidad de liderazgo. Esta amplia y multifacética experiencia la ha catapultado como una de las personas más influyentes en el área digital, y sin duda la mejor opción para liderar los negocios de Twitter en los mercados de habla hispana de Latinoamérica.”; así cita el comunicado de la empresa.
-      &lt;/p&gt;
-      &lt;p&gt;
-        Además de su amplia experiencia en el mundo digital, María Teresa muestra interés y se ve involucrada en temas de emprendimiento y de empoderamiento de la mujer y la equidad de género, participando como miembro del International Women’s Forum capítulo México y es mentora de emprendedores en Endeavor México, Wayra México y en Naranya Labs. También forma parte de la Delegación Mexicana para el Women’s Forum for the Economy &amp; Society. Es co-fundadora y miembro del Consejo Académico del Instituto Superior para el Desarrollo de Internet (ISDI) en México, al tiempo de liderar y coordinar el módulo de métricas digitales en el programa del Máster en Internet Business (MIB) del ISDI.
-
-      &lt;/p&gt;
-      &lt;p&gt;
-        Pronta a su designación, Mariate comentó: “Estoy muy contenta con la oportunidad de continuar con el gran trabajo que ha hecho Twitter en la región. Es un placer para mí volver a la industria de la tecnología de la mano de Twitter, una herramienta indispensable en el mundo de hoy, donde las noticias vuelan y donde todos tenemos una voz y la capacidad de expresar una opinión. El reto de construir el footprint de la compañía en Latinoamérica es algo que me emociona y que va de la mano con las capacidades de liderazgo y emprendimiento que he construido a lo largo de mi carrera”.
-      &lt;/p&gt;
-
-
-
-
-
-
-    &lt;/div&gt;
-
-
-
-
-  &lt;/div&gt;
-
-
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col l8 center&quot;&gt;
-&lt;div class=&quot;card teal &quot;&gt;
- &lt;div class=&quot;card-content white-text&quot;&gt;
-   &lt;span&gt;&lt;img class=&quot;avatar circle responsive-img&quot; src=&quot;http://estospanas.com/images/avatarJM.png&quot; alt=&quot;José Manuel García bio foto&quot; /&gt;&lt;/span&gt;&lt;br&gt;
-   &lt;span class=&quot;card-title&quot;&gt;  &lt;span itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;span itemprop=&quot;name&quot;&gt;José Manuel García&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
- &lt;p&gt; Abogado, MBA con concentración en finanzas y ciudadano del mundo. Ha sido asesor de instituciones públicas y privadas en Venezuela y más recientemente, consultor de pequeñas empresas, firmas de servicios profesionales y startups. Sus intereses se concentran en el desarrollo de nuevos modelos de negocios e inversiones en las áreas de agro-tecnología, energía sustentable e inteligencia artificial. Es un gran aficionado a los rompecabezas y un apasionado de los viajes en este y otros planetas, a través de la ciencia, sus vivencias y la literatura.&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class=&quot;card-action&quot;&gt;
-   &lt;a href=&quot;mailto:jgarcia@camconsulting.online&quot;&gt;Contactar a José &lt;/a&gt;
-   &lt;a href=&quot;/consulta.html&quot;&gt;Realizar Consulta&lt;/a&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;aside class=&quot;col l4 center&quot;&gt;
-&lt;a class=&quot;twitter-timeline&quot; data-lang=&quot;es&quot; data-height=&quot;390&quot; data-link-color=&quot;#039be5&quot; href=&quot;https://twitter.com/estospanasweb&quot;&gt;Tweets by estospanasweb&lt;/a&gt; &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-
-&lt;/aside&gt;
-
-&lt;/div&gt;
-
-</description>
-        <pubDate>Wed, 28 Sep 2016 00:00:00 +0200</pubDate>
-        <link>http://www.estospanas.com/opinion/2016/09/28/maria-teresa-arnal-twitter.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/opinion/2016/09/28/maria-teresa-arnal-twitter.html</guid>
-        
-        
-        <category>opinion</category>
         
       </item>
     
