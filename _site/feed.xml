@@ -5,8 +5,8 @@
     <description>Una mano amiga que te recibe para ayudarte en tu nueva vida en España</description>
     <link>http://www.estospanas.com/</link>
     <atom:link href="http://www.estospanas.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Nov 2016 18:44:08 +0100</pubDate>
-    <lastBuildDate>Tue, 01 Nov 2016 18:44:08 +0100</lastBuildDate>
+    <pubDate>Tue, 01 Nov 2016 18:53:22 +0100</pubDate>
+    <lastBuildDate>Tue, 01 Nov 2016 18:53:22 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -105,7 +105,7 @@
 
       &lt;/p&gt;
       &lt;center&gt;
-        &lt;img class=&quot;img-responsive materialboxed&quot; src=&quot;/images/FF02.jpg&quot; alt=&quot;emprendimiento fernanda fuschino&quot; /&gt;
+        &lt;img class=&quot;img-responsive post materialboxed&quot; src=&quot;/images/FF02.jpg&quot; alt=&quot;emprendimiento fernanda fuschino&quot; /&gt;
       &lt;/center&gt;
         &lt;p&gt;
           Finamente, después de varios meses como becaria y ya egresada como Ilustradora y Diseñadora de Moda, decidí &lt;strong&gt;emprender&lt;/strong&gt; con &lt;a href=&quot;http://www.shop-artcouture.com/&quot;&gt;ART-COUTURE&lt;/a&gt; by Fernanda Fuschino, un proyecto que tan solo tiene 8 meses de vida pero que para su corta edad ya me ha retribuido con creces.
@@ -334,8 +334,8 @@
         <title>Latinoamericanos Exitosos Evelyn Millares</title>
         <description></description>
         <pubDate>Wed, 12 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://www.estospanas.com/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-millares.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-millares.html</guid>
+        <link>http://www.estospanas.com/{{site.baseurl}}/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-millares.html</link>
+        <guid isPermaLink="true">http://www.estospanas.com/{{site.baseurl}}/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-millares.html</guid>
         
         
         <category>redirected</category>
