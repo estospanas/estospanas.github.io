@@ -8,8 +8,7 @@ category: opinion
 comments: 'true'
 date: '2016-11-01 12:00:00'
 excerpt: Más allá del dominio técnico y la remuneración económica, la profesión constituye
-  un mecanismo de integración social. La actividad profesional se extiende más allá
-  del individuo y la producción objetual.
+  un mecanismo de integración social.
 image: images/pexels-photo-57825ER.jpeg
 ---
 
