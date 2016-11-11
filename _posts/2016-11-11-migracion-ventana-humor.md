@@ -18,7 +18,7 @@ image: images/humor.jpeg
 
 <center><em>“El humor  es una manera de hacer pensar sin que el que piensa se dé cuenta de que está pensando”. Aquiles Nazoa.</em></center>
 
-El humor está presente en cada dimensión de la realidad y es porque se trata de una expresión jovial, alegre de esa misma realidad que por muy pesada o cruda que sea, nos permite colocarnos en un estado de ánimo, incluso afectivo, distinto al que percibieramos sin tener la risa de por medio. Ha servido igualmente, como medio de denuncia de circunstancias adversas, intolerables a nuestros usos y costumbres, leyes, así como también en eventos de duelo.
+El humor está presente en cada dimensión de la realidad y es porque se trata de una expresión jovial, alegre, de esa misma realidad que por muy pesada o cruda que sea, nos permite colocarnos en un estado de ánimo, incluso afectivo, distinto al que percibiéramos sin tener la risa de por medio. Ha servido igualmente, como medio de denuncia de circunstancias adversas, intolerables a nuestros usos y costumbres, leyes, así como también en eventos de duelo.
  
  <div class="center video-container">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/QGqtbHxZMl4" frameborder="0" allowfullscreen></iframe>
