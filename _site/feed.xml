@@ -5,22 +5,71 @@
     <description>Una mano amiga que te recibe para ayudarte en tu nueva vida en España</description>
     <link>http://www.estospanas.com/</link>
     <atom:link href="http://www.estospanas.com/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Tue, 01 Nov 2016 19:25:45 +0100</pubDate>
-    <lastBuildDate>Tue, 01 Nov 2016 19:25:45 +0100</lastBuildDate>
-=======
-    <pubDate>Tue, 01 Nov 2016 19:22:38 +0100</pubDate>
-    <lastBuildDate>Tue, 01 Nov 2016 19:22:38 +0100</lastBuildDate>
->>>>>>> refs/remotes/origin/master
+    <pubDate>Fri, 11 Nov 2016 19:52:23 +0100</pubDate>
+    <lastBuildDate>Fri, 11 Nov 2016 19:52:23 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Profesión, moral y emigración</title>
-        <description>&lt;h3 id=&quot;solidaridad-y-sintona-social&quot;&gt;Solidaridad y sintonía social&lt;/h3&gt;
-<<<<<<< HEAD
-=======
+        <title>La migración desde la ventana del humor</title>
+        <description>&lt;h3 id=&quot;centerimg-classpost-materialboxed-srcimageshumorjpeg-altmigracion-ventana-humor-center&quot;&gt;&lt;center&gt;&lt;img class=&quot;post materialboxed&quot; src=&quot;/images/humor.jpeg&quot; alt=&quot;migracion ventana humor&quot; /&gt;&lt;/center&gt;&lt;/h3&gt;
 
->>>>>>> refs/remotes/origin/master
+&lt;center&gt;&lt;em&gt;“El humor  es una manera de hacer pensar sin que el que piensa se dé cuenta de que está pensando”. Aquiles Nazoa.&lt;/em&gt;&lt;/center&gt;
+
+&lt;p&gt;El humor está presente en cada dimensión de la realidad y es porque se trata de una expresión jovial, alegre de esa misma realidad que por muy pesada o cruda que sea, nos permite colocarnos en un estado de ánimo, incluso afectivo, distinto al que percibieramos sin tener la risa de por medio. Ha servido igualmente, como medio de denuncia de circunstancias adversas, intolerables a nuestros usos y costumbres, leyes, así como también en eventos de duelo.&lt;/p&gt;
+
+&lt;div class=&quot;center video-container&quot;&gt;
+          &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QGqtbHxZMl4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+        &lt;/div&gt;
+
+&lt;p&gt;Llegar a un país extranjero para radicarse en él, toca nuestras vidas en ocasiones de formas que generalmente, por razón de nuestro bagaje cultural, pasamos por desapercibidas y que también moderan nuestro ánimo. Un ejemplo de ello es el frío; bajas temperaturas –i.e. extremas como en Noruega, Suecia, Finlandia– están asociadas a eventos depresivos. También lo es por ejemplo, el respeto al espacio vital de las personas, a su individualidad y la forma de expresarlo, al orden establecido y sí, también su sentido del humor; pues el humor también es diferente para cada gentilicio.&lt;/p&gt;
+
+&lt;p&gt;Lo que sí es cierto, es que a través de esa ventana cada uno de nosotros deja filtrar situaciones particulares de vida y no escapa de ello cuando se reside temporal o definitivamente en un país ajeno, para transformar nuestra realidad.&lt;/p&gt;
+
+&lt;div class=&quot;center video-container&quot;&gt;
+          &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lcveU8OyDyU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+        &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://emiliolovera.com&quot;&gt;Emilio Lovera&lt;/a&gt; y &lt;a href=&quot;http://laureanomarquez.com&quot;&gt;Laureano Márquez&lt;/a&gt;, humoristas y actores venezolanos, ponen todo su talento y virtud para por intermedio de la risa, evidenciar este fenómeno de adaptación cultural del inmigrante, particularmente el de sus paisanos y del latinoamericano, no sin antes pasearnos por la identidad cultural que los caracteriza.&lt;/p&gt;
+
+&lt;p&gt;¡Feliz viernes y un mejor fin de semana!&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col l8 center&quot;&gt;
+&lt;div class=&quot;card teal &quot;&gt;
+ &lt;div class=&quot;card-content white-text&quot;&gt;
+   &lt;span&gt;&lt;img class=&quot;avatar circle responsive-img&quot; src=&quot;http://estospanas.com/images/avatarJM.png&quot; alt=&quot;José Manuel García bio foto&quot; /&gt;&lt;/span&gt;&lt;br /&gt;
+   &lt;span class=&quot;card-title&quot;&gt;  &lt;span itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;span itemprop=&quot;name&quot;&gt;José Manuel García&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+ &lt;p&gt; Abogado, MBA con concentración en finanzas y ciudadano del mundo. Ha sido asesor de instituciones públicas y privadas en Venezuela y más recientemente, consultor de pequeñas empresas, firmas de servicios profesionales y startups. Sus intereses se concentran en el desarrollo de nuevos modelos de negocios e inversiones en las áreas de agro-tecnología, energía sustentable e inteligencia artificial. Es un gran aficionado a los rompecabezas y un apasionado de los viajes en este y otros planetas, a través de la ciencia, sus vivencias y la literatura.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class=&quot;card-action&quot;&gt;
+   &lt;a href=&quot;mailto:jgarcia@camconsulting.online&quot;&gt;Contactar a José &lt;/a&gt;
+   &lt;a href=&quot;/consulta.html&quot;&gt;Realizar Consulta&lt;/a&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;aside class=&quot;col l4 center&quot;&gt;
+&lt;a class=&quot;twitter-timeline&quot; data-lang=&quot;es&quot; data-height=&quot;390&quot; data-link-color=&quot;#039be5&quot; href=&quot;https://twitter.com/estospanasweb&quot;&gt;Tweets by estospanasweb&lt;/a&gt; &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+
+&lt;/aside&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 11 Nov 2016 07:43:48 +0100</pubDate>
+        <link>http://www.estospanas.com/relax/2016/11/11/migracion-ventana-humor.html</link>
+        <guid isPermaLink="true">http://www.estospanas.com/relax/2016/11/11/migracion-ventana-humor.html</guid>
+        
+        
+        <category>relax</category>
+        
+      </item>
+    
+      <item>
+        <title>Profesión, moral y emigración</title>
+        <description>&lt;h2 id=&quot;solidaridad-y-sintona-social&quot;&gt;Solidaridad y sintonía social&lt;/h2&gt;
+
 &lt;p&gt;Más allá del dominio técnico y la remuneración económica, la profesión constituye un mecanismo de integración social. La actividad profesional se extiende más allá del individuo y la producción objetual. En su relación con la alteridad, crea mundos y relaciones que expresan modos comunes de vivir, formas seguras de navegar en la angustia que para algunos produce el devenir. Además de proveer de explicaciones sobre nuestro entorno, la profesión revela implicaciones comprensivas valiosas, formamos parte de un mundo (el mundo de la mecánica, el mundo del derecho, el mundo de la panadería, etc), convivimos en un lugar de problematizaciones y soluciones colectivas. La profesión determina de una manera muy particular a la existencia. Si bien el ser humano puede dedicarse a una variedad de actividades, concilia y define su existencia social a su profesión, a un hacer particular. La actividad profesional de su elección modela su carácter y sus maneras de relacionarse con los otros y con el planeta, la profesión ejerce una doble función constituyente, además de transformar el entorno, modifica al profesional ofreciéndole un marco de referencias confiables.&lt;/p&gt;
 
 &lt;p&gt;Emigrar dentro de la crisis actual venezolana no asegura la consecución de la profesión que se posee en el sitio de origen. En Venezuela se ha comprendido históricamente la movilidad social en relación directa con la profesión. Por un lado, existen profesiones legítimas, las cuales se acceden a través de los estudios universitarios, y por el otro, profesiones ilegítimas, actividades que no refieren a una formación académica más sí a una formación dentro del área. Existen profesiones que manifiestan labores intelectuales mientras otras indican propiedades manuales. Estas últimas ocupan dentro del imaginario social un rango más bajo, no obstante, expresan con igual fuerza nexos cooperativos y representaciones colectivas valiosas. Cada profesión genera su propia moral. El trato con el público que solicita el negocio de la comida rápida coloca al trabajador en una situación empática que un profesional del área de extracción de hidrocarburos no experimenta. La labor intelectual comprendida como clarificación retrae al profesional al constante ejercicio de su individualidad, al desplazarse a un trabajo manual producto de la emigración adecuarse puede producir una suerte de reducción existencial, el paso de lo intelectual a lo manual es percibido como un retroceso, no en vano la fuerza es invocada en algunas situaciones en su faceta bruta.&lt;/p&gt;
@@ -61,6 +110,7 @@
 &lt;/aside&gt;
 
 &lt;/div&gt;
+
 </description>
         <pubDate>Tue, 01 Nov 2016 12:00:00 +0100</pubDate>
         <link>http://www.estospanas.com/opinion/2016/11/01/profesion-moral-emigracion.html</link>
@@ -737,85 +787,6 @@
         
         
         <category>bio</category>
-        
-      </item>
-    
-      <item>
-        <title>¿Por qué emprender? ¿No aguantar a tu jefe es una buena razón?</title>
-        <description>  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col s12&quot;&gt;
-      &lt;center&gt;&lt;img class=&quot;post materialboxed&quot; src=&quot;/images/startup2016.jpg&quot; alt=&quot;emprender 2016 España por que&quot; /&gt;&lt;/center&gt;
-      &lt;p&gt;
-        &lt;em&gt;Si bien el interés por emprender en España aumenta cada año, tomar una decisión tan importante por razones equivocadas puede ser un gran error&lt;/em&gt;
-      &lt;/p&gt;
-      &lt;center&gt;&lt;div class=&quot;col s12&quot;&gt;&lt;img style=&quot;padding-bottom:20px;&quot; class=&quot;materialboxed responsive-img&quot; src=&quot;/images/emprender-trends.png&quot; alt=&quot;emprender 2016 España google trends gráfico&quot; /&gt;&lt;/div&gt;&lt;/center&gt;
-    &lt;p&gt;Tal como se evidencia en este gráfico de Google Trends, el interés por la frase “por qué emprender en España&quot;, va incrementando cada año. Con sus altas y bajas,  para el mes de septiembre de 2016 vemos que el índice de interés es de 75/100, bastante alto, en un mes que es la antesala a uno de los más importantes eventos sobre emprendimiento a nivel mundial: el &lt;a href=&quot;https://www.southsummit.co/&quot;&gt;South Summit&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;&lt;strong&gt;¿Por qué Emprender?&lt;/strong&gt; es tal vez una de las preguntas más complejas que me he hecho en la vida y cuya respuesta tiene un aspecto cuantitativo, relativo a la cuantificación de los recursos (financieros, materiales y humanos del emprendedor) y otro cualitativo (actitud, disposición y razones para emprender).&lt;/p&gt;
-    &lt;p&gt;Quisiera en este artículo compartir un listado, &lt;strong&gt;basado en mis propia experiencia&lt;/strong&gt; y sin un orden en particular, de las &lt;strong&gt;3 peores razones para emprender&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2&gt;No soporto a mi jefe&lt;/h2&gt;
-&lt;center&gt;
-
-&lt;img class=&quot;responsive-img&quot; src=&quot;https://c2.staticflickr.com/4/3706/12155264433_5dde9733a4_b.jpg&quot; alt=&quot;jefe lider&quot; /&gt;
-&lt;/center&gt;
-
-&lt;p&gt;Es probable que hayas escuchado antes la expresión “los buenos empleados renuncian por tener malos jefes”... Si bien puede ser cierto, no es un motivo suficiente para dejar la certeza (y a veces hasta el aburrimiento) que implica un empleo por cuenta ajena.  Si ya has decidido dar el paso de dejar tu trabajo, no des el salto al emprendimiento sin antes realizar este test para que evalúes tu &lt;a href=&quot;http://documentos.060.es/060_empresas/Test_emprendedor.html&quot;&gt;capacidad emprendedora&lt;/a&gt;. Si luego de realizar el test ya no ves tan claro que te guste asumir riesgos o que estés dispuesto a sacrificar tiempo libre por tu proyecto, probablemente sólo necesites otro trabajo donde sí reconozcan tu aporte y capacidades.&lt;/p&gt;
-
-&lt;h2&gt;Porque quiero ser millonario&lt;/h2&gt;
-  &lt;p&gt;Todos los días recibimos noticias sobre startups que triunfan levantando nuevas rondas de inversión como la que hemos conocido esta semana sobre &lt;a href=&quot;http://www.elmundo.es/economia/2016/10/04/57f366c1468aebcf718b45cd.html&quot;&gt;Source{d}&lt;/a&gt; y &lt;a href=&quot;http://www.elmundo.es/economia/2016/10/03/57f14c5a468aeb40368b466c.html&quot;&gt;Hawkers&lt;/a&gt;, dos de las principales startups de España, convirtiendo a sus socios en propietarios de participaciones valoradas en millones de euros.&lt;/p&gt;
-  &lt;p&gt;La realidad: de todas las startups que cada año se crean el porcentaje que llega a esta fase es mínimo. En 2015 para esta fecha se habían creado &lt;a href=&quot;http://www.eleconomista.es/valenciana/noticias/7051360/10/15/La-creacion-de-startups-en-Espana-crece-un-26-en-2015.html&quot;&gt;2.551 startups&lt;/a&gt;, si pensamos que al año menos de una decena de startups llegan a una valoración superior al millón de euros, estamos hablando de solo un 0,4% de startups millonarias en su segundo año de vida.&lt;/p&gt;
-  &lt;p&gt;No es posible triunfar en el mundo emprendedor de la noche a la mañana o sin realizar ningún sacrificio. Muchos emprendedores, como es el caso de &lt;a href=&quot;https://megaricos.com/2016/04/26/la-historia-de-airbnb-como-tres-chicos-convirtieron-la-idea-de-alquilar-colchones-inflables-en-una-super-compania-valorada-en-25-mil-millones/&quot;&gt;Airbnb&lt;/a&gt;, tuvieron que luchar por años, ser rechazados, quebrar y estar endeudados, antes de lograr estar en el lugar prominente que hoy ocupan.&lt;/p&gt;
-  &lt;div class=&quot;center video-container&quot;&gt;&lt;iframe src=&quot;https://embed.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-
-
-&lt;h2&gt;Quiero hacerlo como un proyecto paralelo&lt;/h2&gt;
-
-
-&lt;p&gt;Es perfectamente posible que al inicio quieras compatibilizar con un trabajo por cuenta ajena o trabajando por tu cuenta como freelancer, sin embargo, es necesario entender desde el inicio, que emprender es un trabajo a tiempo completo, que requerirá más y más atención a medida que vaya creciendo tu proyecto. &lt;/p&gt;
-&lt;p&gt;
-    &lt;div class=&quot;center video-container&quot; style=&quot;margin-bottom:20px;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gFE-Tdz24hM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-    &lt;p style=&quot;margin-top:20px;&quot;&gt;&lt;br /&gt;Debes perseguir tu pasión, si tu única motivación es el dinero, no lo vas a lograr. Te vas a rendir a mitad del camino porque al no tener como objetivo algo por lo cual sientes una gran pasión, cualquier excusa hará que te rindas. Así lo dijo Steve Jobs en esta entrevista.&lt;/p&gt;
-  &lt;p&gt;Tal vez la mejor respuesta a la pregunta &lt;strong&gt;¿Por qué emprender?&lt;/strong&gt; sea: &lt;blockquote style=&quot;font-size:1.5em;&quot;&gt;
-
- &lt;strong&gt;¿Y por qué no?&lt;/strong&gt; &lt;/blockquote&gt;&lt;/p&gt;
-&lt;/p&gt;
-
-
-
-  &lt;/div&gt;
-
-
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col l8 center&quot;&gt;
-&lt;div class=&quot;card teal &quot;&gt;
- &lt;div class=&quot;card-content white-text&quot;&gt;
-   &lt;span&gt;&lt;img class=&quot;avatar circle responsive-img&quot; src=&quot;/images/avatarCA.png&quot; alt=&quot;Carlos Augusto Marchena bio foto&quot; /&gt;&lt;/span&gt;&lt;br&gt;
-   &lt;span class=&quot;card-title&quot;&gt;  &lt;span itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;span itemprop=&quot;name&quot;&gt;Carlos Augusto Marchena&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
- &lt;p&gt; Luego de 10 años de carrera como abogado decidí que quería estar al frente de una empresa, en contacto directo con los clientes, entendiendo sus necesidades y generando valor para ellos. Por ello hace tres años decidí darle un giro a mi vida y ahora me dedico a lo que más me gusta: crear soluciones para los problemas y necesidades reales de mis clientes, soluciones que sean técnicamente factibles y financieramente viables. Mi hobby es la programación, lo complemento con mi actividad profesional y me facilita la generación de soluciones relacionadas con la transformación digital. Considero que el cambio cultural dentro de una organización es condición necesaria para el éxito en la implantación de una estrategia de transformación digital. La tecnología debe servir a las personas, no lo contrario.&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class=&quot;card-action&quot;&gt;
-   &lt;a href=&quot;mailto:carlos@camconsulting.online&quot;&gt;Contactar a Carlos &lt;/a&gt;
-   &lt;a href=&quot;/consulta.html&quot;&gt;Realizar Consulta&lt;/a&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;aside class=&quot;col l4 center&quot;&gt;
-&lt;a class=&quot;twitter-timeline&quot; data-lang=&quot;es&quot; data-height=&quot;390&quot; data-link-color=&quot;#039be5&quot; href=&quot;https://twitter.com/estospanasweb&quot;&gt;Tweets by estospanasweb&lt;/a&gt; &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-
-&lt;/aside&gt;
-
-&lt;/div&gt;
-
-</description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://www.estospanas.com/emprender/2016/10/04/por-que-emprender.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/emprender/2016/10/04/por-que-emprender.html</guid>
-        
-        
-        <category>emprender</category>
         
       </item>
     
