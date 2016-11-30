@@ -6,9 +6,7 @@ author: jose
 category: bio
 comments: 'true'
 date: '2016-11-30 04:00:00'
-excerpt: El pasado 25 de noviembre de 2015, Francisco Javier Pérez fue elegido por
-  unanimidad como nuevo Secretario General de la Asociación de Academias de la Lengua
-  Española (ASALE)
+excerpt: Francisco J. Pérez, Secretario General de ASALE
 image: images/FranciscoJavierPerez.jpg
 ---
 
