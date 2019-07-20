@@ -1,9 +1,3 @@
-.sass-cache
-.jekyll-metadata
-.DS_Store
-.sass-cache/.DS_Store
-_sass/.DS_Store
-_site/.DS_Store
-font/.DS_Store
-fonts/.DS_Store
-js/.DS_Store
+.bundle
+_node_modules
+vendor
