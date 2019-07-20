@@ -6,9 +6,6 @@ gem "html-proofer"
 gem "nokogiri", ">= 1.8.5"
 gem "rack-protection", ">= 1.5.5"
 
-
-
-
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
