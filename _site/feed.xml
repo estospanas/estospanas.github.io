@@ -3,15 +3,15 @@
   <channel>
     <title>Vivir en España - Estos Panas</title>
     <description>Una mano amiga que te recibe para ayudarte en tu nueva vida en España</description>
-    <link>http://www.estospanas.com/</link>
-    <atom:link href="http://www.estospanas.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Nov 2016 17:53:57 +0100</pubDate>
-    <lastBuildDate>Wed, 30 Nov 2016 17:53:57 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Mar 2021 10:45:58 +0100</pubDate>
+    <lastBuildDate>Fri, 12 Mar 2021 10:45:58 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Latinoamericanos exitosos: Francisco J. Pérez, venezolano de inconmensurables méritos para nada “faramallero”</title>
-        <description>&lt;h3 id=&quot;centerimg-classpost-materialboxed-srcimagesfranciscojavierperezjpg-altlatinoamericanos-exitosos-francisco-javier-perez-center&quot;&gt;&lt;center&gt;&lt;img class=&quot;post materialboxed&quot; src=&quot;/images/FranciscoJavierPerez.jpg&quot; alt=&quot;latinoamericanos exitosos francisco javier perez&quot; /&gt;&lt;/center&gt;&lt;/h3&gt;
+        <description>&lt;h3&gt;&lt;center&gt;&lt;img class=&quot;post materialboxed&quot; src=&quot;/images/FranciscoJavierPerez.jpg&quot; alt=&quot;latinoamericanos exitosos francisco javier perez&quot; /&gt;&lt;/center&gt;&lt;/h3&gt;
 &lt;center&gt;&lt;em&gt;Francisco Javier Pérez , Secretario General de la Asociación de Academias de la Lengua Española (ASALE)&lt;/em&gt;&lt;/center&gt;
 
 &lt;p&gt;En la &lt;a href=&quot;http://www.ucab.edu.ve/&quot;&gt;Universidad Católica Andrés Bello&lt;/a&gt; se celebra desde el 28 de noviembre y hasta el 4 de diciembre, la primera &lt;a href=&quot;http://elucabista.com/2016/11/23/feria-del-libro-programacion/&quot;&gt;Feria del Libro&lt;/a&gt; en el Oeste de Caracas. Como parte de los actos inaugurales, se ha dado la presentación del libro Laceración y salvación. Sobre Julio César Salas (2013), de Francisco Javier Pérez, secretario general de la &lt;a href=&quot;http://www.asale.org/&quot;&gt;Asociación de Academias de la Lengua Española&lt;/a&gt;, publicado por la Fundación Julio C. Salas y por la Universidad de Los Andes (Mérida, Venezuela).&lt;/p&gt;
@@ -64,8 +64,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 30 Nov 2016 04:00:00 +0100</pubDate>
-        <link>http://www.estospanas.com/bio/2016/11/30/latinoamericanos-exitos-francisco-perez.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/bio/2016/11/30/latinoamericanos-exitos-francisco-perez.html</guid>
+        <link>http://localhost:4000/bio/2016/11/30/latinoamericanos-exitos-francisco-perez.html</link>
+        <guid isPermaLink="true">http://localhost:4000/bio/2016/11/30/latinoamericanos-exitos-francisco-perez.html</guid>
         
         
         <category>bio</category>
@@ -74,7 +74,7 @@
     
       <item>
         <title>Asimilación Cultural: La integración del inmigrante</title>
-        <description>&lt;h3 id=&quot;centerimg-classpost-materialboxed-srcimagesliu-bolin-cerveza-polarjpg-altmigracion-ventana-humor-center&quot;&gt;&lt;center&gt;&lt;img class=&quot;post materialboxed&quot; src=&quot;/images/Liu-Bolin-Cerveza-Polar.jpg&quot; alt=&quot;migracion ventana humor&quot; /&gt;&lt;/center&gt;&lt;/h3&gt;
+        <description>&lt;h3&gt;&lt;center&gt;&lt;img class=&quot;post materialboxed&quot; src=&quot;/images/Liu-Bolin-Cerveza-Polar.jpg&quot; alt=&quot;migracion ventana humor&quot; /&gt;&lt;/center&gt;&lt;/h3&gt;
 
 &lt;center&gt;&lt;em&gt;Liu Bolin. Escondido entre las ‘polarcitas’ 2016.&lt;/em&gt;&lt;/center&gt;
 
@@ -120,8 +120,8 @@ Me he preguntado constantemente por el fenómeno y por más que tratase de ejerc
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 15 Nov 2016 04:00:00 +0100</pubDate>
-        <link>http://www.estospanas.com/opinion/2016/11/15/integracion-inmigrante.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/opinion/2016/11/15/integracion-inmigrante.html</guid>
+        <link>http://localhost:4000/opinion/2016/11/15/integracion-inmigrante.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinion/2016/11/15/integracion-inmigrante.html</guid>
         
         
         <category>opinion</category>
@@ -130,7 +130,7 @@ Me he preguntado constantemente por el fenómeno y por más que tratase de ejerc
     
       <item>
         <title>La migración desde la ventana del humor</title>
-        <description>&lt;h3 id=&quot;centerimg-classpost-materialboxed-srcimageshumorjpeg-altmigracion-ventana-humor-center&quot;&gt;&lt;center&gt;&lt;img class=&quot;post materialboxed&quot; src=&quot;/images/humor.jpeg&quot; alt=&quot;migracion ventana humor&quot; /&gt;&lt;/center&gt;&lt;/h3&gt;
+        <description>&lt;h3&gt;&lt;center&gt;&lt;img class=&quot;post materialboxed&quot; src=&quot;/images/humor.jpeg&quot; alt=&quot;migracion ventana humor&quot; /&gt;&lt;/center&gt;&lt;/h3&gt;
 
 &lt;center&gt;&lt;em&gt;“El humor  es una manera de hacer pensar sin que el que piensa se dé cuenta de que está pensando”. Aquiles Nazoa.&lt;/em&gt;&lt;/center&gt;
 
@@ -178,8 +178,8 @@ Me he preguntado constantemente por el fenómeno y por más que tratase de ejerc
 
 </description>
         <pubDate>Fri, 11 Nov 2016 07:43:48 +0100</pubDate>
-        <link>http://www.estospanas.com/relax/2016/11/11/migracion-ventana-humor.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/relax/2016/11/11/migracion-ventana-humor.html</guid>
+        <link>http://localhost:4000/relax/2016/11/11/migracion-ventana-humor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/relax/2016/11/11/migracion-ventana-humor.html</guid>
         
         
         <category>relax</category>
@@ -188,7 +188,7 @@ Me he preguntado constantemente por el fenómeno y por más que tratase de ejerc
     
       <item>
         <title>Profesión, moral y emigración</title>
-        <description>&lt;h2 id=&quot;solidaridad-y-sintona-social&quot;&gt;Solidaridad y sintonía social&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;solidaridad-y-sintonía-social&quot;&gt;Solidaridad y sintonía social&lt;/h2&gt;
 
 &lt;p&gt;Más allá del dominio técnico y la remuneración económica, la profesión constituye un mecanismo de integración social. La actividad profesional se extiende más allá del individuo y la producción objetual. En su relación con la alteridad, crea mundos y relaciones que expresan modos comunes de vivir, formas seguras de navegar en la angustia que para algunos produce el devenir. Además de proveer de explicaciones sobre nuestro entorno, la profesión revela implicaciones comprensivas valiosas, formamos parte de un mundo (el mundo de la mecánica, el mundo del derecho, el mundo de la panadería, etc), convivimos en un lugar de problematizaciones y soluciones colectivas. La profesión determina de una manera muy particular a la existencia. Si bien el ser humano puede dedicarse a una variedad de actividades, concilia y define su existencia social a su profesión, a un hacer particular. La actividad profesional de su elección modela su carácter y sus maneras de relacionarse con los otros y con el planeta, la profesión ejerce una doble función constituyente, además de transformar el entorno, modifica al profesional ofreciéndole un marco de referencias confiables.&lt;/p&gt;
 
@@ -233,8 +233,8 @@ Me he preguntado constantemente por el fenómeno y por más que tratase de ejerc
 
 </description>
         <pubDate>Tue, 01 Nov 2016 12:00:00 +0100</pubDate>
-        <link>http://www.estospanas.com/opinion/2016/11/01/profesion-moral-emigracion.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/opinion/2016/11/01/profesion-moral-emigracion.html</guid>
+        <link>http://localhost:4000/opinion/2016/11/01/profesion-moral-emigracion.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinion/2016/11/01/profesion-moral-emigracion.html</guid>
         
         
         <category>opinion</category>
@@ -259,8 +259,8 @@ Me he preguntado constantemente por el fenómeno y por más que tratase de ejerc
 &lt;p&gt;La Eterna Canción Venezolana de Cumpleaños (The Eternal Venezuelan Birthday Song) es una parodia de esta canción popular en su versión alterna, creada con el divertido y excéntrico toque de Joanna Hausmann.&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Oct 2016 12:00:00 +0200</pubDate>
-        <link>http://www.estospanas.com/relax/2016/10/28/eterna-cancion-cumpleanos.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/relax/2016/10/28/eterna-cancion-cumpleanos.html</guid>
+        <link>http://localhost:4000/relax/2016/10/28/eterna-cancion-cumpleanos.html</link>
+        <guid isPermaLink="true">http://localhost:4000/relax/2016/10/28/eterna-cancion-cumpleanos.html</guid>
         
         
         <category>relax</category>
@@ -358,8 +358,8 @@ Me he preguntado constantemente por el fenómeno y por más que tratase de ejerc
 
 </description>
         <pubDate>Tue, 25 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://www.estospanas.com/opinion/2016/10/25/emprendimiento-fernanda-fuschino.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/opinion/2016/10/25/emprendimiento-fernanda-fuschino.html</guid>
+        <link>http://localhost:4000/opinion/2016/10/25/emprendimiento-fernanda-fuschino.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinion/2016/10/25/emprendimiento-fernanda-fuschino.html</guid>
         
         
         <category>opinion</category>
@@ -368,7 +368,7 @@ Me he preguntado constantemente por el fenómeno y por más que tratase de ejerc
     
       <item>
         <title>Latinoamericanos exitosos: Manuel Bronstein, VP de producto en YouTube,  inversionista y mentor de startups</title>
-        <description>&lt;h3 id=&quot;centerimg-classpost-materialboxed-srcimagesmanuelbronsteinjpg-altlatinoamericanos-exitosos-manuel-bronstein-center&quot;&gt;&lt;center&gt;&lt;img class=&quot;post materialboxed&quot; src=&quot;/images/ManuelBronstein.jpg&quot; alt=&quot;latinoamericanos exitosos manuel bronstein&quot; /&gt;&lt;/center&gt;&lt;/h3&gt;
+        <description>&lt;h3&gt;&lt;center&gt;&lt;img class=&quot;post materialboxed&quot; src=&quot;/images/ManuelBronstein.jpg&quot; alt=&quot;latinoamericanos exitosos manuel bronstein&quot; /&gt;&lt;/center&gt;&lt;/h3&gt;
 &lt;center&gt;&lt;em&gt;Un “cool high-tech dad” caraqueño&lt;/em&gt;&lt;/center&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/manuelbronstein&quot;&gt;Manuel Bronstein&lt;/a&gt;, es actualmente el Vicepresidente de Gestión de Productos para YouTube en Palo Alto, California. Previo a este cargo, su trayectoria profesional tuvo el sello de grandes empresas desde sus inicios, empezando por Procter &amp;amp; Gamble y transitando por AOL, Microsoft y finalmente la empresa de videojuegos Zynga.&lt;/p&gt;
@@ -411,8 +411,8 @@ Me he preguntado constantemente por el fenómeno y por más que tratase de ejerc
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 19 Oct 2016 04:00:00 +0200</pubDate>
-        <link>http://www.estospanas.com/opinion/2016/10/19/latinoamericanos-exitosos-manuel-bronstein.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/opinion/2016/10/19/latinoamericanos-exitosos-manuel-bronstein.html</guid>
+        <link>http://localhost:4000/opinion/2016/10/19/latinoamericanos-exitosos-manuel-bronstein.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinion/2016/10/19/latinoamericanos-exitosos-manuel-bronstein.html</guid>
         
         
         <category>opinion</category>
@@ -500,8 +500,8 @@ Me he preguntado constantemente por el fenómeno y por más que tratase de ejerc
 
 </description>
         <pubDate>Wed, 12 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://www.estospanas.com/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-miralles.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-miralles.html</guid>
+        <link>http://localhost:4000/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-miralles.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-miralles.html</guid>
         
         
         <category>opinion</category>
@@ -512,8 +512,8 @@ Me he preguntado constantemente por el fenómeno y por más que tratase de ejerc
         <title>Latinoamericanos Exitosos Evelyn Millares</title>
         <description></description>
         <pubDate>Wed, 12 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://www.estospanas.com/{{site.baseurl}}/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-millares.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/{{site.baseurl}}/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-millares.html</guid>
+        <link>http://localhost:4000/{{site.baseurl}}/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-millares.html</link>
+        <guid isPermaLink="true">http://localhost:4000/{{site.baseurl}}/opinion/2016/10/12/latinoamericanos-exitosos-evelyn-millares.html</guid>
         
         
         <category>redirected</category>
@@ -638,8 +638,8 @@ Me he preguntado constantemente por el fenómeno y por más que tratase de ejerc
 
 </description>
         <pubDate>Tue, 11 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://www.estospanas.com/opinion/2016/10/11/emprendimiento-carla-rodriguez.html</link>
-        <guid isPermaLink="true">http://www.estospanas.com/opinion/2016/10/11/emprendimiento-carla-rodriguez.html</guid>
+        <link>http://localhost:4000/opinion/2016/10/11/emprendimiento-carla-rodriguez.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opinion/2016/10/11/emprendimiento-carla-rodriguez.html</guid>
         
         
         <category>opinion</category>
